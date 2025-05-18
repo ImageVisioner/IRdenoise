@@ -16,8 +16,11 @@ We will publicly open all code and resources after the paper is accepted. Thank 
 We have used both real datasets and simulated datasets for experiments. The real dataset is used to verify the denoising performance of real situations. The purpose of the simulated dataset is to explore the potential performance of our method.
 
 
+We use the image from the link below for denoising.
 
+http://openai.raytrontek.com/apply/E_Image_noise_reduction.html/
 
+It provides RAW format images, and I provide batch processing code to convert them into readable and writable formats, such as png, bmp, etc.
 
 ---
 
