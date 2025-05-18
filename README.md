@@ -22,6 +22,11 @@ http://openai.raytrontek.com/apply/E_Image_noise_reduction.html/
 
 It provides RAW format images, and I provide batch processing code to convert them into readable and writable formats, such as png, bmp, etc.
 
+<center>
+<img src="figs/1.jpg" width=80%>
+</center
+
+
 ---
 
 
