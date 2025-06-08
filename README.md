@@ -1,7 +1,7 @@
 # Update 
 2025.05.17   
 
-We have submitted our manuscript to the TIM Journal, wish us good luck. We will release our code immediately upon acceptance
+We have submitted our manuscript to the Optics & Laser Technology Journal, wish us good luck. We will release our code immediately upon acceptance
 
 
 # Infrared_Denoise
