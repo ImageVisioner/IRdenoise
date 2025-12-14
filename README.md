@@ -91,7 +91,17 @@ Email:imagevisioner@outlook.com    or lh_010625@163.com
 **Acknowledgments**   
 
 Our work has benefited from the National Natural Science Foundation of China. And the work on the following two datasets. Please cite when it is helpful to you.
-
+``` 
+@article{liu2026infrared,
+  title={Infrared image denoising: A hybrid noise removal pipeline with anti-artifact regularization},
+  author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
+  journal={Optics \& Laser Technology},
+  volume={193},
+  pages={114174},
+  year={2026},
+  publisher={Elsevier}
+}
+``` 
 
 ``` 
 @article{liu2025multi,
@@ -102,12 +112,4 @@ Our work has benefited from the National Natural Science Foundation of China. An
   publisher={IEEE}
 }
 ```
-``` 
-@inproceedings{llvip,
-  title={LLVIP: A visible-infrared paired dataset for low-light vision},
-  author={Jia, Xinyu and Zhu, Chuang and Li, Minzhen and Tang, Wenqi and Zhou, Wenli},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  pages={3496--3504},
-  year={2021}
-}
-``` 
+
