@@ -13,9 +13,10 @@ We propose a denoising model for infrared images designed for hybird noise.
 
 
 We will publicly open all code and resources after the paper is accepted. Thank you for your attention.  
-
-
-
+ 
+ 
+If you'd like to read about non-uniform denoising in infrared images, you can check out this link.
+https://github.com/ImageVisioner/InfraredNUC/   
 
 
 ---
