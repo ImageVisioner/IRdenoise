@@ -12,7 +12,7 @@ Our paper has been accepted by the OLT, and I will update our code soon.
 
 2025.05.17   
 
-We have submitted our manuscript to the Optics & Laser Technology Journal, wish us good luck. We will release our code immediately upon acceptance
+We have submitted our manuscript to the **Optics & Laser Technology** Journal, wish us good luck. We will release our code immediately upon acceptance
 
 
 This project implements a Flexible Order Modulator (FOM) based image denoising algorithm with low-rank regularization to improve denoising performance. The algorithm is suitable for complex noise scenarios such as Poisson noise.  It is worth noting that the modeling Gaussian noise not shown in the uploaded code is included in the Poisson noise. You can safely use the modified code.  
@@ -49,10 +49,10 @@ FOM_Denoising/
 We have used both real datasets and simulated datasets for experiments. The real dataset is used to verify the denoising performance of real situations. The purpose of the simulated dataset is to explore the potential performance of our method.
 
 
-We use the image from the link below for denoising.
+We use the image from the link below for denoising. 
 
-http://openai.raytrontek.com/apply/E_Image_noise_reduction.html/
-
+http://openai.raytrontek.com/apply/E_Image_noise_reduction.html/   
+You can use the **raw2png**  function for processing.    
 It provides RAW format images, and I provide batch processing code to convert them into readable and writable formats, such as png, bmp, etc.
 
 <center>
