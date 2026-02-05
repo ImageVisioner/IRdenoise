@@ -1,3 +1,7 @@
+# Note
+*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*   
+*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*    
+*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*   
 # Update 
 
 2026.02.05   
@@ -15,7 +19,7 @@ This project implements a Flexible Order Modulator (FOM) based image denoising a
 
 # Infrared_Denoise
 
-We propose a denoising model for infrared images designed for hybird noise. *If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*
+We propose a denoising model for infrared images designed for hybird noise. 
 
 We will publicly open all code and resources after the paper is accepted. Thank you for your attention.  
  
