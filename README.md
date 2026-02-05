@@ -39,8 +39,6 @@ FOM_Denoising/
 │   └── PSNR.m               # PSNR计算函数 / PSNR calculation function
 ├── Results/                  # 结果输出文件夹 / Results output directory (auto-created)
 ├── processed_noise_0005.png # 测试图像 / Test image
-├── irdenoise.pdf            # 相关论文 / Related paper
-├── FOTV_denoising.pdf       # 原始算法论文 / Original algorithm paper
 └── README.md                # 说明文档 / Documentation
 ```
 
