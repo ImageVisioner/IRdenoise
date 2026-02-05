@@ -7,7 +7,7 @@ Our paper has been accepted by the OLT, and I will update our code soon.
 We have submitted our manuscript to the Optics & Laser Technology Journal, wish us good luck. We will release our code immediately upon acceptance
 
 
-This project implements a Flexible Order Modulator (FOM) based image denoising algorithm with low-rank regularization to improve denoising performance. The algorithm is suitable for complex noise scenarios such as Poisson noise.  
+This project implements a Flexible Order Modulator (FOM) based image denoising algorithm with low-rank regularization to improve denoising performance. The algorithm is suitable for complex noise scenarios such as Poisson noise.  It is worth noting that the modeling Gaussian noise not shown in the uploaded code is included in the Poisson noise. You can safely use the modified code.  
 
 # Infrared_Denoise
 
