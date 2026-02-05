@@ -119,7 +119,7 @@ Email:imagevisioner@outlook.com    or lh_010625@163.com
 
 **Acknowledgments**   
 
-Our work has benefited from the National Natural Science Foundation of China. And the work on the following two datasets. Please cite when it is helpful to you.
+Our work has benefited from the National Natural Science Foundation of China. Please cite when it is helpful to you.
 ``` 
 @article{liu2026infrared,
   title={Infrared image denoising: A hybrid noise removal pipeline with anti-artifact regularization},
