@@ -7,6 +7,8 @@ Our paper has been accepted by the OLT, and I will update our code soon.
 We have submitted our manuscript to the Optics & Laser Technology Journal, wish us good luck. We will release our code immediately upon acceptance
 
 
+This project implements a Flexible Order Modulator (FOM) based image denoising algorithm with low-rank regularization to improve denoising performance. The algorithm is suitable for complex noise scenarios such as Poisson noise.  
+
 # Infrared_Denoise
 
 We propose a denoising model for infrared images designed for hybird noise.
@@ -18,6 +20,22 @@ We will publicly open all code and resources after the paper is accepted. Thank 
 If you'd like to read about non-uniform denoising in infrared images, you can check out this link.
 https://github.com/ImageVisioner/InfraredNUC/   
 
+##  / Project Structure
+
+```
+FOM_Denoising/
+├── main.m                    # 主函数入口 / Main entry point
+├── Functions/               # 函数文件夹 / Functions directory
+│   ├── FOM.m                # FOM去噪核心算法 / FOM denoising core algorithm
+│   ├── defDDt.m             # 差分算子定义 / Difference operator definition
+│   ├── cconv2.m             # 循环卷积 / Circular convolution
+│   └── PSNR.m               # PSNR计算函数 / PSNR calculation function
+├── Results/                  # 结果输出文件夹 / Results output directory (auto-created)
+├── processed_noise_0005.png # 测试图像 / Test image
+├── irdenoise.pdf            # 相关论文 / Related paper
+├── FOTV_denoising.pdf       # 原始算法论文 / Original algorithm paper
+└── README.md                # 说明文档 / Documentation
+```
 
 ---
 **Dataset** 
