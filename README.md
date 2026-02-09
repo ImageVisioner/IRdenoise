@@ -34,6 +34,7 @@ https://github.com/ImageVisioner/InfraredNUC/
 ```
 FOM_Denoising/
 ├── main.m                    # 主函数入口 / Main entry point
+├── Cppcode                   # 本项目的c++实现  
 ├── Functions/               # 函数文件夹 / Functions directory
 │   ├── FOM.m                # FOM去噪核心算法 / FOM denoising core algorithm
 │   ├── defDDt.m             # 差分算子定义 / Difference operator definition
