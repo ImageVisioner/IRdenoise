@@ -1,8 +1,7 @@
 # Note
 *If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*   
 *If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*    
-*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*   
-*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.* 
+*If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*    
 # Update 
 2026.02.09    
 Cpp version is ok.     
