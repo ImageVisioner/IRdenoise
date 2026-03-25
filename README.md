@@ -4,7 +4,7 @@
 *If you want to use our method for comparison in your paper, you can name it **FOM_IR**.*    
 # Update 
 2026.02.09    
-Cpp version is ok.     
+Cpp version is ok. it is can be run  that faster than matlab code version.       
 
 2026.02.05   
 We uploaded the code implemented by matlab, and the code implemented by C++will be provided later.  
