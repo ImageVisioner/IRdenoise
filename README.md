@@ -5,10 +5,10 @@
 Cpp version is ok. it is can be run  that faster than matlab code version.       
 
 2026.02.05   
-We uploaded the code implemented by matlab, and the code implemented by C++will be provided later.  
+We uploaded the code implemented by matlab, and the code implemented by C++ version will be provided later.  
 
 2025.12.20  
-Our paper has been accepted by the OLT, and I will update our code soon.  
+Our paper has been accepted by the JOLT, and I will update our code soon.  
 
 2025.05.17   
 
